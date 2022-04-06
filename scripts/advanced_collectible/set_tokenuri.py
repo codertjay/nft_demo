@@ -9,6 +9,7 @@ dog_metadata_dic = {
 }
 
 
+
 def main():
     print(f"Working on {network.show_active()} ")
     advanced_collectible = AdvancedCollectible[-1]
